@@ -1,0 +1,10 @@
+{
+  "name": "Stella Sora SFX pack",
+  "description": "Stella Sora Sound pack for Steam Deck",
+  "author": "KuyaMimikyu",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
