@@ -14,9 +14,9 @@
   "ui_steam_message_old_smooth.m4a",
   "ui_steam_smoother_friend_join.m4a",
   "ui_steam_smoother_friend_online.m4a"
-]
-  "mappings": {    
-    "deck_ui_toast.wav": ["deck_ui_toast.wav", "deck_ui_toast2.wav"]
+],
+"mappings": {
+    "deck_ui_toast.wav": ["deck_ui_toast.wav", "deck_ui_toast2.wav"],
     "deck_ui_launch_game.wav": ["deck_ui_launch_game.wav", "deck_ui_launch_game2.wav"]
   }
 }
